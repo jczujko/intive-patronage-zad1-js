@@ -1,5 +1,4 @@
-let moviesList = [
-    {
+let moviesList = [{
         "id": 1,
         "title": "The Shawshank Redemption",
         "year": 1994,
